@@ -1,4 +1,4 @@
-# smart_garden
+# water_plan 
 
 A new Flutter project.
 
